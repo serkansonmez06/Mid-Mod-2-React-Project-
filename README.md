@@ -1,6 +1,6 @@
 # Mid-Mod-2-React-Project-ShoppingCart
 
-Shopping webpage with cart! user can choose items and add/remove items to cart. user can display products list. 
+Shopping webpage with cart! user can choose items and add/remove items to cart. user can display products list. Cart list, cart summary!
 
 1- There is dummy api used to get data for this project.. 
   -first npm install -g json-server from terminal
